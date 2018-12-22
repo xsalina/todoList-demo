@@ -1,8 +1,9 @@
 # todoList
- 
-小练习,
-组件分明,
-通过Head组件添加列表,
-Main渲染列表以及通过传值给父组件删除列表。
-模板取自于
+React
+列表小练习,
+通过Head组件键盘事件添加列表,
+Main渲染列表以及通过传值给父组件删除列表,
+主要练习了父组件与子组件的传值。
+模板取自于https://github.com/tastejs/todomvc-app-template.git,
+
  
