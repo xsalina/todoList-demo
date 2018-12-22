@@ -1,6 +1,8 @@
 # todoList
  
- 1.npm install
- 
- 2.npm start
+小练习,
+组件分明,
+通过Head组件添加列表,
+Main渲染列表以及通过传值给父组件删除列表。
+模板取自于
  
