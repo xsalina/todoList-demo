@@ -8,7 +8,7 @@
 
 React
 
-利用脚手架搭环境
+利用脚手架搭环境 create-react-app myqpp
 
 列表小练习,
 
